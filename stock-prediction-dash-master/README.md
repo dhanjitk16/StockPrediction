@@ -21,7 +21,7 @@ Utilized yfinance for historical data and integrated SVR model for predictive an
 Clone the project
 
 ```bash
-  git clone https://github.com/yashverma3/stock-prediction-dash
+  git clone https://github.com/dhanjitk16/StockPrediction
 ```
 
 Install dependencies
